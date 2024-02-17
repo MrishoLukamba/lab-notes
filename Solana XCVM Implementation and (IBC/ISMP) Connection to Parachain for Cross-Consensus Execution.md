@@ -15,7 +15,7 @@ This implementation is a proof of concept demonstrating how we can use solana st
 ---
 **Architecture**
 
-![SolanaXCVM](https://hackmd.io/_uploads/rkQaO1AoT.png)
+![SolanaXCVM](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_2e99729c654a907069e89def7669be03.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1708169321&Signature=GDhFnFqPGX2FS2+KbnE95zHL1wU%3D)
 
 ---
 
